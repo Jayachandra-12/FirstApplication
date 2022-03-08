@@ -1,0 +1,26 @@
+table {
+    background-color: gray;
+}
+th:hover,h1:hover {
+    color: red;
+}
+td:hover,p:hover {
+    color: red;
+}
+tr:hover {
+    background-color: burlywood;
+}
+#button1:hover {
+    color: crimson;
+    background-color: burlywood;
+}
+input:hover {
+    background-color: burlywood;
+}
+form {
+    border-radius: 10%;
+    box-shadow: 2px 2px black;
+}
+p{
+    text-align: center;
+}
